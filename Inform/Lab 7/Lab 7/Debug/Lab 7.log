@@ -1,0 +1,23 @@
+﻿  Lab 7.cpp
+C:\Users\shuma\OneDrive\Документы\zaichenko\Inform\Lab 7\Lab 7\Lab 7.cpp(36,12): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\shuma\OneDrive\Документы\zaichenko\Inform\Lab 7\Lab 7\Lab 7.cpp(59,33): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\shuma\OneDrive\Документы\zaichenko\Inform\Lab 7\Lab 7\Lab 7.cpp(61,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\shuma\OneDrive\Документы\zaichenko\Inform\Lab 7\Lab 7\Lab 7.cpp(104,33): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\shuma\OneDrive\Документы\zaichenko\Inform\Lab 7\Lab 7\Lab 7.cpp(126,45): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\shuma\OneDrive\Документы\zaichenko\Inform\Lab 7\Lab 7\Lab 7.cpp(142,41): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shuma\OneDrive\Документы\zaichenko\Inform\Lab 7\Lab 7\Lab 7.cpp(75,33): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\shuma\OneDrive\Документы\zaichenko\Inform\Lab 7\Lab 7\Lab 7.cpp(134): message : выполняется компиляция ссылки на экземпляр шаблон функции "T *GetAverage<float>(T *,int)"
+          with
+          [
+              T=float
+          ]
+C:\Users\shuma\OneDrive\Документы\zaichenko\Inform\Lab 7\Lab 7\Lab 7.cpp(77,26): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Lab 7.vcxproj -> C:\Users\shuma\OneDrive\Документы\zaichenko\Inform\Lab 7\Debug\Lab 7.exe
